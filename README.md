@@ -77,7 +77,7 @@ Help is also welcome to work around this limitation. See [sources](/telemirror/m
 
 ### Host on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/khoben/telemirror)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pratikthalor/telemirror)
 
 or manually:
 
